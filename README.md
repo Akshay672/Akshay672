@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Akshay672
-- 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning Masters in DataScience 
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m AKSHAY MALI
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently Pursuing Master's in Data Science and Machine Learning at PES Univerity
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 How to reach me akshaymali672@gmail.com
 
 <!---
