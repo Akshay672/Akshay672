@@ -3,6 +3,7 @@
 - 👯 I’m looking for internships
 - 💞️ I’m also looking to collaborate on Data Science Projects
 - 📫 Mail id: akshaymali672@gmail.com
+- :link: linkdin : https://www.linkedin.com/in/akshay-mali672/
 
 
 
