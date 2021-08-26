@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AKSHAY MALI
 - 🌱 I’m currently Pursuing Master's in Data Science and Machine Learning at PES Univerity
 - 👯 I’m looking for internships
-- 💞️ I’m also looking to collaborate on Data Science Projects
 - 📫 Mail id: akshaymali672@gmail.com
 
 ### Languages and Tools...
